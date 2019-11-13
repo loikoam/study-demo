@@ -1,0 +1,5 @@
+C:\Users\PK-Aleksandr\source\repos\TrafficLightsLibrary\TrafficLightsLibrary\bin\Debug\TrafficLightsLibrary.dll
+C:\Users\PK-Aleksandr\source\repos\TrafficLightsLibrary\TrafficLightsLibrary\bin\Debug\TrafficLightsLibrary.pdb
+C:\Users\PK-Aleksandr\source\repos\TrafficLightsLibrary\TrafficLightsLibrary\obj\Debug\TrafficLightsLibrary.csprojAssemblyReference.cache
+C:\Users\PK-Aleksandr\source\repos\TrafficLightsLibrary\TrafficLightsLibrary\obj\Debug\TrafficLightsLibrary.dll
+C:\Users\PK-Aleksandr\source\repos\TrafficLightsLibrary\TrafficLightsLibrary\obj\Debug\TrafficLightsLibrary.pdb
